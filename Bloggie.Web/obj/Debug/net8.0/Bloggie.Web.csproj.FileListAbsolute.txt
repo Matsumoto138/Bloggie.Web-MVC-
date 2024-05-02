@@ -134,3 +134,4 @@ C:\Users\Hp\Desktop\Projects\BloggieMVC\Bloggie.Web\Bloggie.Web\bin\Debug\net8.0
 C:\Users\Hp\Desktop\Projects\BloggieMVC\Bloggie.Web\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Hp\Desktop\Projects\BloggieMVC\Bloggie.Web\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.csproj.AssemblyReference.cache
 C:\Users\Hp\Desktop\Projects\BloggieMVC\Bloggie.Web\Bloggie.Web\obj\Debug\net8.0\Bloggie..735B77A1.Up2Date
+C:\Users\Hp\Desktop\Projects\BloggieMVC\Bloggie.Web\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.sourcelink.json
